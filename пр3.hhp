@@ -1,0 +1,18 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=пр3.chm
+Contents file=Table of Contents.hhc
+Default topic=main.htm
+Display compile progress=No
+Index file=Index.hhk
+Language=0x422 Украинский (Украина)
+
+
+[FILES]
+main.htm
+main2.htm
+main3.htm
+main4.htm
+
+[INFOTYPES]
+
